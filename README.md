@@ -1,4 +1,4 @@
-![image](https://github.com/AILogoSkill/CV_Projects/assets/144710374/deaa9538-5826-4b4e-846e-93ce4fa33095)# Computer Vision Project Repository
+# Computer Vision Project Repository
 
 This repository contains code and data for two computer vision tasks: face recognition and Generative Adversarial Network (GAN).
 
@@ -28,8 +28,8 @@ This repository contains code and data for two computer vision tasks: face recog
 ## Project Structure
 
 - `face_recognition/`: Contains code and data related to the face recognition task.
-- `gan/`: Contains code and data related to the GAN task.
-- 
+- `gan/`: Contains code and data related to the GAN task:
+ https://nbviewer.org/github/AILogoSkill/CV_Projects/blob/main/Gan/flicker8k_dataset_pro.ipynb
 
 ## Getting Started
 
